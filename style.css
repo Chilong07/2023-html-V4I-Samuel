@@ -1,1 +1,25 @@
-header {background-color: #4E596C;}
+header {
+    
+    background-color: #4E596C;
+
+}
+nav{
+    width: auto;
+
+    background-color: blue;
+}
+main{
+    width: auto;
+
+    background-color: yellow;
+}
+article{
+    width: auto;
+
+    background-color: green;
+}
+footer{
+    width: auto;
+
+    background-color: brown;
+}
