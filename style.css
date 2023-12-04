@@ -5,7 +5,7 @@ header {
     
     background-color: #4c00ff;
     text-align: left;
-    height: 100px; 
+    height: 10%; 
     width:90%;
     padding-top:  20px;
     padding-bottom: ;
@@ -16,6 +16,7 @@ header {
 }
 nav{
     width: auto;
+    height: 80%;
 
     background-color: blue;
 }
@@ -37,7 +38,7 @@ footer{
 
 #wrapper {
     width:50%;
-    height: 50px;;
+    height: 80%;
     margin:15px;  
     float:left;
     background-color:red;
