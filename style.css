@@ -25,10 +25,11 @@ footer{
     background-color: brown;
 }
 
-#wrapper {width:50%;
-          height: 50px;;
-          margin:15px;  
-          background-color:#FAF9F6;
-          
+#wrapper {
+    width:50%;
+    height: 50px;;
+    margin:15px;  
+    background-color:red;
 
 }
+
