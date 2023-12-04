@@ -5,8 +5,11 @@ header {
     
     background-color: #4c00ff;
     text-align: left;
-    height: 100px;px ;
+    height: 100px; 
     width:90%;
+    padding-top:  20px;
+    padding-bottom: ;
+    font-size: 30px;
 
 }
 nav{
