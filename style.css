@@ -17,7 +17,7 @@ header {
 }
 nav{
     width: 20%;
-    height: 80%;
+    height: 5000;
     float:left;
 
     background-color: blue;
@@ -43,8 +43,7 @@ footer{
 
 #wrapper {
     width:50%;
-    height: 80%;
-    margin:15px;  
+    height: 80%; 
     float:left;
     background-color:red;
 }
