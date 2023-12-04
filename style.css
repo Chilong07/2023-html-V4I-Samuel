@@ -26,6 +26,7 @@ main{
     width: 20%;
     height:20%;
     background-color:yellow;
+    float:right;
 }
 article{
     width: 40%;
@@ -33,8 +34,9 @@ article{
     background-color: green;
 }
 footer{
-    width: 5500px;
-    height: 500px;
+    width: 80%;
+    height: 10%;
+    float:none;
 
     background-color: brown;
 }
