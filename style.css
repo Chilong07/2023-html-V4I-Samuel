@@ -38,7 +38,7 @@ article{
     width: 40%;
     text-align: center;
     background-color: green;
-    float:left;
+    
 }
 footer{
     width: 83.45%;
@@ -59,4 +59,8 @@ footer{
 
 .img {background-color: black;
      float:right;
+}
+#article{
+    float:left;
+
 }
