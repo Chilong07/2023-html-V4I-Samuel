@@ -57,6 +57,8 @@ footer{
     background-color:red;
 }
 
-.img {background-color: black;
+.img { height:75%;
+    width: 45%;
      float:right;
+
 }
