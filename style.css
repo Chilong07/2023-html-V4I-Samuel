@@ -60,5 +60,5 @@ footer{
 }
 
 .img {background-color: black;
-     clear:both;
+     float:right;
 }
