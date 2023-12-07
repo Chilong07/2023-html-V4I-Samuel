@@ -6,7 +6,7 @@ header {
     background-color: #4c00ff;
     text-align: left;
     height: 10%; 
-    width:90%;
+    width:100%;
     padding-top:  20px;
     padding-bottom: ;
     font-size: 75px;
@@ -16,17 +16,18 @@ header {
  
 }
 nav{
-    width: 200px;
+    width: 15%;
     height: 750px;
     float:left;
-    margin: 10px;
+    margin: 0.5%;
     background-color: blue;
 }
 main{
     width: 80%;
     height:600px;
     background-color:yellow;
-    margin: 30px;
+    margin: 0.5%;
+    margin-left: 0%;
     float:left;
    
     
