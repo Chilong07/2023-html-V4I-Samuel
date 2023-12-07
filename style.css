@@ -23,7 +23,11 @@ nav{
     background-color: blue;
 }
 main{
+<<<<<<< HEAD
     width: 83.5%;
+=======
+    width: 70%;
+>>>>>>> bde84f2 (dasd)
     height:600px;
     background-color:yellow;
     margin: 0.5%;
@@ -52,7 +56,7 @@ footer{
 }
 
 #wrapper {
-    width: 80%;
+    width: 100%;
     height: 80%; 
     float:left;
     background-color:red;
