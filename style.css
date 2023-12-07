@@ -23,8 +23,11 @@ nav{
     background-color: blue;
 }
 main{
+ HEAD
     width: 83.5%;
     height:850px;
+    width: 70%;
+    height:600px;
     background-color:yellow;
     margin: 0.5%;
     margin-left: 0%;
@@ -58,3 +61,4 @@ footer{
     background-color:red;
 }
 
+.img {background-color: black;}
