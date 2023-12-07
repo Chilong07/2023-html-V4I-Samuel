@@ -61,4 +61,6 @@ footer{
     background-color:red;
 }
 
-.img {background-color: black;}
+.img {background-color: black;
+     float:right;
+}
