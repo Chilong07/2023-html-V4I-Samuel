@@ -23,10 +23,7 @@ nav{
     background-color: blue;
 }
 main{
-<<<<<<< HEAD
     width: 83.5%;
-=======
-    width: 70%;
     height:600px;
     background-color:yellow;
     margin: 0.5%;
@@ -34,8 +31,7 @@ main{
     float:left;
     
    
-    margin-left: 30px;
-    float:left;
+ 
     
 }
 article{
@@ -46,9 +42,10 @@ article{
     background-color: green;
 }
 footer{
-    width: 83.5%;
+    width: 83.45%;
     height: 100%;
-    
+    margin-top:0%;
+    margin-left:0%;
    float:right;
 
     background-color: brown;
