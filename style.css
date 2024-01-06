@@ -33,33 +33,28 @@ main{
  
 }
 article{
-    width: 40%;
+    width: 98.5%;
     text-align: center;
     background-color: green;
     float: left;
-    
+    text-align: left;
 }
+
 
 
 
 
 footer{
-    width: 98.5%;
+    width: 99%;
     height: 140px;
-    margin-top:0%;
+    margin-top:0.5%;
     margin-left:0%;
-   float: right;
+    float: right;
+   
    
 
     background-color: brown;
 }
-
-
-
-
-
-
-
 
 #wrapper {
     width: 100%;
@@ -68,8 +63,11 @@ footer{
     background-color:red;
 }
 
-.img { height:75%;
+#img { height:75%;
     width: 43.5%;
-     float:right;
+    float:right;
+    margin: right 5%; ;
 
 }
+
+#tekst {float: left;}
