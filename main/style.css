@@ -15,6 +15,11 @@ header {
     color:#F7F5F4;
  
 }
+
+body {
+background-image: url('background.jpg');
+}
+
 nav{
     width: 15%;
     height: 2000px;
@@ -98,4 +103,16 @@ footer{
     padding-bottom:0%;
     margin-bottom:0%;
     font-size:30px ;
+}
+}
+.navbar th {
+  width: 25%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  cursor:pointer;
+  color: #FFFFFF;  
+  font-family: Georgia, Times, serif;
+}
+.navbar th:hover, .AVnav, .Bnav, .DVnav, .Mnav {
+  background-color:#4E596C;
 }
