@@ -17,8 +17,8 @@ header {
 }
 
 body {
-background-image: url('background.jpg');
-}
+background-image: url('/images/background\ gif.gif');
+
 
 nav{
     width: 15%;
