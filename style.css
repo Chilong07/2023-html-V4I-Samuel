@@ -77,7 +77,8 @@ footer{
         width:50%;
 }
 
-#verder {text-align: center;
+#verder {
+    text-align: center;
         background-color: #F7F5F4;
         width:5%;
         margin-top:1.5%;
@@ -100,16 +101,4 @@ footer{
     padding-bottom:0%;
     margin-bottom:0%;
     font-size:30px ;
-}
-
-.navbar th {
-  width: 25%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  cursor:pointer;
-  color: #FFFFFF;  
-  font-family: Georgia, Times, serif;
-}
-.navbar th:hover, .AVnav, .Bnav, .DVnav, .Mnav {
-  background-color:#4E596C;
 }
