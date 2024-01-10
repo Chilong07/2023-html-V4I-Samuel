@@ -80,11 +80,11 @@ footer{
 #verder {text-align: center;
         background-color: #F7F5F4;
         width:5%;
-        margin-top:1.5%;
+        margin-top:2.25%;
         margin-right:44.5% ;
         float: right;
         height: 50px;
-        padding-bottom:0%;
+        padding:0%;
         margin: bottom 0%;
         font-size:30px;
 
@@ -97,7 +97,7 @@ footer{
     margin-top:1.5%;
     height: 50px;
     float:right;
-    padding-bottom:0%;
+    padding:0.001%;
     margin-bottom:0%;
     font-size:30px ;
 }
