@@ -44,6 +44,7 @@ article{
     background-color: #dddddd;
     float: left;
     text-align: left;
+    
 }
 
 
@@ -101,4 +102,12 @@ footer{
     padding-bottom:0%;
     margin-bottom:0%;
     font-size:30px ;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    font-size: 30px;
 }
