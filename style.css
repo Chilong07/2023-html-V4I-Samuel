@@ -17,7 +17,7 @@ header {
 }
 
 body{
-background-image: url('/images/background\ gif.gif');}
+    background-image: url('/images/background\ gif.gif');}
 
 
 nav{
@@ -45,15 +45,16 @@ article{
     float: left;
     text-align: left;
     
+    font-size: 30px;
 }
 
 
-#0A5269
+
 
 
 footer{
     width: 99%;
-    height: 140px;
+    height: 150px;
     margin-top:0.5%;
     margin-left:0%;
     float:right;
@@ -70,12 +71,12 @@ footer{
 #img { height:75%;
     width: 35%;
     float:right;
-    margin-right:5px;
+    margin: right 5%; ;
 
 }
 
 #tekst {float: left;
-        width:50%;
+        width:30%;
 }
 
 #verder {
