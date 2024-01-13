@@ -29,6 +29,21 @@ nav{
     font-size:19px;
     
 }
+
+a {
+    background-color: #2C5187;
+    padding:1px;
+    
+    border:2px;
+    border-style: solid;
+    border-color:darkblue;
+    color:white;
+
+}
+a:hover{
+    background-color: lightblue;
+    color:grey;
+}
 main{
     width: 83.5%;
     height: 2000px;
@@ -86,7 +101,7 @@ footer{
 
 #verder {
     text-align: center;
-        background-color: #F7F5F4;
+        background-color: #2C5187;
         width:5%;
         margin-top:1.5%;
         margin-right:44.5% ;
@@ -95,12 +110,26 @@ footer{
         padding-bottom:0%;
         margin: bottom 0%;
         font-size:30px;
-
+        color:white;
+        
+}
+#verder:hover {
+    text-align: center;
+        background-color: lightblue;
+        width:5%;
+        margin-top:1.5%;
+        margin-right:44.5% ;
+        float: right;
+        height: 50px;
+        padding-bottom:0%;
+        margin: bottom 0%;
+        font-size:30px;
+        color:grey;
         
 }
 
 #terug {text-align: center;
-    background-color: #F7F5F4;
+    background-color: #2C5187;
     width:5%;
     margin-top:1.5%;
     height: 50px;
@@ -108,8 +137,18 @@ footer{
     padding-bottom:0%;
     margin-bottom:0%;
     font-size:30px ;
+    color:white;
 }
-
+#terug:hover{text-align: center;
+    background-color: lightblue;
+    width:5%;
+    margin-top:1.5%;
+    height: 50px;
+    float:right;
+    padding-bottom:0%;
+    margin-bottom:0%;
+    font-size:30px ;
+    color:grey;
 h1{
     font-size: 50px;
 }
