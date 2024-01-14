@@ -22,24 +22,32 @@ header {
 }
 
 body{
-    background-image: url('/images/background\ gif.gif');}
+    background-image: url('/images/background\ gif.gif');
+    
+}
 
+nav{
+    width: 20%;
+    height:132vh;
+    float:left;
+    margin: 0.5%;
+    background-color: #484f49;
+    
+    border-radius: 25px;
+    border: 2px solid black;
+    box-shadow:2px 2px 4px #000000;
+}
+   
+        
+        
+          
+    
+    
 
-    nav{
-        width: 25%;
-        height: 235vh;
-        float:left;
-        margin: 0.5%;
-        background-color: #484f49;
-        font-size:20px;
-        
-        border-radius: 25px;
-        border: 2px solid black;
-        box-shadow:2px 2px 4px #000000; 
-        
-        
-        
-    }
+u{font-size: 35px;
+  color: aliceblue;
+}
+
     
 a{text-decoration:none;
   color:whitesmoke;
@@ -58,11 +66,23 @@ a:hover { border-radius: 25px;
     box-shadow:2px 2px 4px #000000;
 }
     
+nav p{
+    border-bottom:1px solid black;
+    display: inline-block;
+    color: whitesmoke;     
+    width:90%;
+    font-size:45px;
+    text-align: center;
+    margin-top:5% ;
+    
+    
 
+}
+ 
 
 
 main{
-    width:72%;
+    width:77%;
     height: 80%;
     background-color: white;
     margin: 0.5%;
@@ -98,7 +118,7 @@ footer{
     height: 10%;
     margin-top:0.5%;
     margin-left:0%;
-    float:right;
+    clear:both;
     background-color:#5AD3FF;
 
     border-radius: 25px;
@@ -119,8 +139,8 @@ footer{
 }
 
 #tekst1 {float: left;
-    width:40%;
-    margin-left:10%;
+    width:25%;
+    margin-left:15%;
     margin-right:0.5%;
     font-size: 28px;
     
@@ -137,15 +157,14 @@ footer{
 
     width: 25%;
     margin-right:0.5%;
-    margin-left:10%;
+    margin-left:15%;
 }
 
 #tekst2 {float: right;
 
-    
-    margin-right:10%;
+    width:25%;
+    margin-right:19%;
     margin-left:0.5%;
-    width:40%;
     
 }
     
@@ -158,11 +177,9 @@ footer{
     margin-left:0.5%;
 }
 #tekst3 {float: left;
-    width:40%;
-    margin-left:10%;
+    width:25%;
+    margin-left:26%;
     margin-right:0.5%;
-    font-size: 28px;
-    
    
 
 }
@@ -170,14 +187,13 @@ footer{
 #plaatje4 {float :left;
     width: 25%;
     margin-right:0.5%;
-    margin-left:10%;
+    margin-left:15%;
 }
 #tekst4 {float: right;
 
-    
-    margin-right:10%;
+    width:25%;
+    margin-right:19%;
     margin-left:0.5%;
-    width:40%;
     
 }
 
