@@ -28,7 +28,7 @@ body{
 
 nav{
     width: 20%;
-    height:132vh;
+    height:275vh;
     float:left;
     margin: 0.5%;
     background-color: #484f49;
@@ -44,30 +44,30 @@ nav{
     
     
 
-u{font-size: 35px;
-  color: aliceblue;
-}
+
 
     
-a{text-decoration:none;
-  color:whitesmoke;
-  font-size:40px;
-  margin:4%;
-  font-size: 30px;
-  margin:5%;
+nav a{text-decoration:none;
+    color:whitesmoke;
+    font-size:40px;
+    margin:4%;
+    font-size: 25px;
+    margin:5%;
+    border-bottom:3px solid black;
  
 }
 
-a:hover { border-radius: 25px;
+nav a:hover { border-radius: 25px;
     border: 2px solid white;
     padding: 5px;
     width: 200px;
     height: 150px;
     box-shadow:2px 2px 4px #000000;
+    padding: 5px;
 }
     
 nav p{
-    border-bottom:1px solid black;
+    border-bottom:4px solid black;
     display: inline-block;
     color: whitesmoke;     
     width:90%;
@@ -139,10 +139,14 @@ footer{
 }
 
 #tekst1 {float: left;
-    width:25%;
-    margin-left:15%;
+    width:40%;
+    margin-left:7%;
     margin-right:0.5%;
-    font-size: 28px;
+    font-size: 20px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding:20px;
+    box-shadow:2px 2px 4px #000000;
     
     
 
@@ -151,20 +155,29 @@ footer{
     width: 25%;
     margin-right:23%;
     margin-left:0.5%;
+    
+    
 }
 
 #plaatje2 {float :left;
 
     width: 25%;
     margin-right:0.5%;
-    margin-left:15%;
+    margin-left:10%;
 }
 
 #tekst2 {float: right;
 
-    width:25%;
-    margin-right:19%;
-    margin-left:0.5%;
+    
+    margin-right:10%;
+    margin-left:0.1%;
+    width:40%;
+    font-size: 20px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding:20px;
+    box-shadow:2px 2px 4px #000000;
+
     
 }
     
@@ -177,25 +190,22 @@ footer{
     margin-left:0.5%;
 }
 #tekst3 {float: left;
-    width:25%;
-    margin-left:26%;
+    width:40%;
+    margin-left:6%;
     margin-right:0.5%;
+    font-size: 20px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding:20px;
+    box-shadow:2px 2px 4px #000000;
+    
    
 
 }
 
-#plaatje4 {float :left;
-    width: 25%;
-    margin-right:0.5%;
-    margin-left:15%;
-}
-#tekst4 {float: right;
 
-    width:25%;
-    margin-right:19%;
-    margin-left:0.5%;
-    
-}
+
+
 
 
 
@@ -229,10 +239,11 @@ footer{
     
     margin-bottom:5.0%;
     font-size:30px ;
-    color:#808080;
+    color:#3A3B3C;
     border-radius: 25px;
     border: 2px solid black;
     margin-left: 44%;
+    box-shadow:2px 2px 4px #000000; 
 }
 
 h1{
